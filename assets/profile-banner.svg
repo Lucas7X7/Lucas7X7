@@ -1,0 +1,51 @@
+<svg width="1200" height="310" viewBox="0 0 1200 310" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">L7X7 — APIs, Automação e Node.js</title>
+  <desc id="desc">Banner tecnológico escuro com linhas ciano e verde.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06111A"/>
+      <stop offset="0.52" stop-color="#092735"/>
+      <stop offset="1" stop-color="#05202B"/>
+    </linearGradient>
+    <linearGradient id="line" x1="110" y1="0" x2="1080" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00B4D8" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#00B4D8"/>
+      <stop offset="1" stop-color="#00E0A4" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-80%" width="160%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#78E2F2" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="310" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="310" rx="18" fill="url(#grid)"/>
+  <path d="M0 232H224L266 190H520L562 148H824L872 100H1200" stroke="url(#line)" stroke-width="2"/>
+  <path d="M0 260H300L344 216H672L722 166H1015L1060 121H1200" stroke="#00E0A4" stroke-opacity=".24"/>
+  <path d="M0 83H162L211 132H467L514 179H735L783 227H1200" stroke="#00B4D8" stroke-opacity=".18"/>
+
+  <g fill="#00B4D8" filter="url(#glow)">
+    <circle cx="266" cy="190" r="4"/><circle cx="562" cy="148" r="4"/><circle cx="872" cy="100" r="4"/>
+  </g>
+  <g fill="#00E0A4" filter="url(#glow)">
+    <circle cx="344" cy="216" r="3.5"/><circle cx="722" cy="166" r="3.5"/><circle cx="1060" cy="121" r="3.5"/>
+  </g>
+
+  <rect x="60" y="55" width="104" height="28" rx="4" fill="#00B4D8" fill-opacity=".14" stroke="#00B4D8" stroke-opacity=".55"/>
+  <text x="76" y="74" fill="#96F4FF" font-family="monospace" font-size="13" font-weight="700" letter-spacing="1.5">PROFILE_07</text>
+  <text x="60" y="166" fill="#F3FBFF" font-family="monospace" font-size="66" font-weight="800" letter-spacing="4">L7X7</text>
+  <text x="64" y="205" fill="#82AAB5" font-family="monospace" font-size="16" letter-spacing="2">NODE.JS  /  APIS  /  AUTOMATION</text>
+  <rect x="64" y="228" width="398" height="2" fill="url(#line)"/>
+  <text x="64" y="260" fill="#00E0A4" font-family="monospace" font-size="13" letter-spacing="1">SYSTEM READY // BUILD • SHIP • IMPROVE</text>
+
+  <g transform="translate(960 58)">
+    <rect width="178" height="116" rx="10" fill="#071A24" fill-opacity=".84" stroke="#00B4D8" stroke-opacity=".32"/>
+    <text x="20" y="32" fill="#7FAAB6" font-family="monospace" font-size="11" letter-spacing="1.5">CURRENT MODE</text>
+    <text x="20" y="66" fill="#F3FBFF" font-family="monospace" font-size="20" font-weight="700">BUILDING</text>
+    <circle cx="25" cy="91" r="5" fill="#00E0A4"/>
+    <text x="40" y="96" fill="#9FD9D0" font-family="monospace" font-size="12">ONLINE</text>
+  </g>
+</svg>
