@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:101820,75:003b5c,100:00bcd4&height=230&section=header&text=Lucas%20Gabriel&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=APIs%20%C2%B7%20Automacao%20%C2%B7%20Node.js&descAlignY=58&descSize=18" alt="Banner de Lucas Gabriel" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:101820,75:003b5c,100:00bcd4&height=230&section=header&text=Lucas%20Gabriel&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=APIs%20%C2%B7%20Automacao%20%C2%B7%20Node.js&descAlignY=58&descSize=18" alt="Banner de Luucnxz" width="100%" />
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3200&pause=900&color=00BCD4&center=true&vCenter=true&width=650&lines=Lucas+Gabriel;Node.js+%7C+APIs+REST+%7C+Automacao;Construindo+produtos+que+resolvem+problemas." alt="Texto animado" /></a>
 
