@@ -1,0 +1,15 @@
+<svg width="1200" height="190" viewBox="0 0 1200 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Asta APIs — abrir plataforma</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="190" gradientUnits="userSpaceOnUse"><stop stop-color="#002B3A"/><stop offset=".55" stop-color="#005F73"/><stop offset="1" stop-color="#003747"/></linearGradient>
+    <linearGradient id="button" x1="0" y1="0" x2="214" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#00B4D8"/><stop offset="1" stop-color="#00D99C"/></linearGradient>
+  </defs>
+  <rect width="1200" height="190" rx="16" fill="url(#bg)"/>
+  <path d="M0 145C170 91 227 194 396 125C548 63 643 161 808 96C978 29 1043 109 1200 43" stroke="#80F6FF" stroke-opacity=".18" stroke-width="2"/>
+  <circle cx="84" cy="95" r="30" stroke="#5FF2FF" stroke-width="2"/><path d="M72 95H96M84 83V107" stroke="#5FF2FF" stroke-width="2"/>
+  <text x="142" y="76" fill="#B5F8FF" font-family="monospace" font-size="14" letter-spacing="2">PRIVATE PLATFORM</text>
+  <text x="142" y="116" fill="white" font-family="monospace" font-size="34" font-weight="700">ASTA APIs</text>
+  <text x="142" y="146" fill="#B6DDE2" font-family="monospace" font-size="14">APIs · mídia · automação · integrações</text>
+  <rect x="913" y="64" width="226" height="61" rx="8" fill="url(#button)"/>
+  <text x="953" y="101" fill="#05202A" font-family="monospace" font-size="15" font-weight="700" letter-spacing="1">ACESSAR ↗</text>
+</svg>

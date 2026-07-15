@@ -1,0 +1,33 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Backend, Automação e Infraestrutura</title>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse"><stop stop-color="#081720"/><stop offset="1" stop-color="#06222C"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00B4D8"/><stop offset="1" stop-color="#00D99C"/></linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="16" fill="url(#panel)"/>
+  <rect x="1" y="1" width="1198" height="258" rx="15" stroke="#4AD8ED" stroke-opacity=".18"/>
+  <path d="M400 34V226M800 34V226" stroke="#8FEAFF" stroke-opacity=".12"/>
+  <rect x="44" y="48" width="44" height="4" rx="2" fill="url(#accent)"/>
+  <text x="44" y="89" fill="#F1FCFF" font-family="monospace" font-size="15" font-weight="700" letter-spacing="2">01 / BACKEND</text>
+  <text x="44" y="131" fill="#00C5E8" font-family="monospace" font-size="25" font-weight="700">API ENGINEERING</text>
+  <text x="44" y="167" fill="#96B8C1" font-family="monospace" font-size="14">REST endpoints · autenticação · documentação</text>
+  <text x="44" y="201" fill="#5E8590" font-family="monospace" font-size="12">NODE.JS  /  EXPRESS  /  MONGODB</text>
+  <circle cx="360" cy="187" r="7" fill="#00B4D8" fill-opacity=".6"/>
+  <circle cx="360" cy="187" r="3" fill="#DFFBFF"/>
+
+  <rect x="444" y="48" width="44" height="4" rx="2" fill="url(#accent)"/>
+  <text x="444" y="89" fill="#F1FCFF" font-family="monospace" font-size="15" font-weight="700" letter-spacing="2">02 / AUTOMATION</text>
+  <text x="444" y="131" fill="#00C5E8" font-family="monospace" font-size="25" font-weight="700">WORKFLOW SYSTEMS</text>
+  <text x="444" y="167" fill="#96B8C1" font-family="monospace" font-size="14">bots · mídia · serviços conectados</text>
+  <text x="444" y="201" fill="#5E8590" font-family="monospace" font-size="12">INTEGRATIONS  /  TOOLS  /  AI</text>
+  <circle cx="760" cy="187" r="7" fill="#00D99C" fill-opacity=".6"/>
+  <circle cx="760" cy="187" r="3" fill="#E3FFF5"/>
+
+  <rect x="844" y="48" width="44" height="4" rx="2" fill="url(#accent)"/>
+  <text x="844" y="89" fill="#F1FCFF" font-family="monospace" font-size="15" font-weight="700" letter-spacing="2">03 / INFRA</text>
+  <text x="844" y="131" fill="#00C5E8" font-family="monospace" font-size="25" font-weight="700">RELIABLE DEPLOY</text>
+  <text x="844" y="167" fill="#96B8C1" font-family="monospace" font-size="14">containers · banco de dados · servidores</text>
+  <text x="844" y="201" fill="#5E8590" font-family="monospace" font-size="12">DOCKER  /  LINUX  /  GIT</text>
+  <circle cx="1160" cy="187" r="7" fill="#00B4D8" fill-opacity=".6"/>
+  <circle cx="1160" cy="187" r="3" fill="#DFFBFF"/>
+</svg>
