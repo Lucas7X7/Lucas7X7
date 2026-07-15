@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:030712,45:073642,72:005f73,100:00b4d8&height=250&section=header&text=Lucas7X7&fontSize=60&fontColor=ffffff&stroke=0b1118&animation=fadeIn&fontAlignY=43&desc=NODE.JS%20%E2%80%A2%20APIs%20%E2%80%A2%20AUTOMA%C3%87%C3%83O&descAlignY=64&descSize=17" alt="Lucas7X7" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,45:073642,72:005f73,100:00b4d8&height=220&section=header&text=Lucas7X7&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=NODE.JS%20%C2%B7%20APIs%20%C2%B7%20AUTOMA%C3%87%C3%83O&descAlignY=58&descSize=18&animation=fadeIn" alt="Lucas7X7" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=720&lines=%24+inicializando+perfil...;Construindo+APIs+que+bots+conseguem+usar.;Automacao%2C+midia+e+integracoes+em+um+so+lugar." alt="Terminal animado" /></a>
 
@@ -80,6 +80,10 @@
 </div>
 
 <br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,35:005f73,70:073642,100:030712&height=125&section=footer" alt="Rodapé" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,35:005f73,70:073642,100:030712&height=125&section=footer" alt="Rodapé" width="100%" />
