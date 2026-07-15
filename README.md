@@ -42,8 +42,8 @@ Crio ferramentas para transformar tarefas repetitivas em integrações simples. 
 <br />
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lucas7X7&show_icons=true&hide_border=true&bg_color=080B0E&title_color=00BCD4&icon_color=00A878&text_color=D9E2E8&ring_color=006D77&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas7X7&hide_border=true&background=080B0E&ring=00BCD4&fire=00A878&currStreakLabel=FFFFFF&sideLabels=D9E2E8&dates=8B9AA5&stroke=006D77" alt="Sequência de contribuições" />
+  <img src="https://img.shields.io/badge/FOCO-APIs%20%26%20AUTOMA%C3%87%C3%83O-006D77?style=for-the-badge" alt="Foco: APIs e automação" />
+  <img src="https://img.shields.io/badge/STACK-NODE.JS-00A878?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Stack: Node.js" />
 </div>
 
 ## 🛰️ Em construção
