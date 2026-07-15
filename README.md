@@ -1,90 +1,73 @@
 <div align="center">
+  <img src="./assets/profile-banner.svg" alt="L7X7 — APIs, Automação e Node.js" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,45:073642,72:005f73,100:00b4d8&height=220&section=header&text=Lucas7X7&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=NODE.JS%20%C2%B7%20APIs%20%C2%B7%20AUTOMA%C3%87%C3%83O&descAlignY=58&descSize=18&animation=fadeIn" alt="Lucas7X7" width="100%" />
+  <br />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=720&lines=%24+inicializando+perfil...;Construindo+APIs+que+bots+conseguem+usar.;Automacao%2C+midia+e+integracoes+em+um+so+lugar." alt="Terminal animado" /></a>
-
-<br />
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00A878?style=for-the-badge&labelColor=080B0E" alt="Status online" />
-<img src="https://komarev.com/ghpvc/?username=Lucas7X7&label=VISITAS&color=006D77&style=for-the-badge&labelColor=080B0E" alt="Visitas ao perfil" />
-
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00B894?style=for-the-badge&labelColor=07131D" alt="Sistema online" />
+  <img src="https://img.shields.io/badge/FOCUS-APIs%20%2F%20AUTOMA%C3%87%C3%83O-00A8CC?style=for-the-badge&labelColor=07131D" alt="Foco: APIs e automação" />
+  <img src="https://komarev.com/ghpvc/?username=Lucas7X7&label=VISITAS&color=164E63&style=for-the-badge&labelColor=07131D" alt="Visitas" />
 </div>
 
 <br />
 
-```txt
-┌─[ profile@github ]
-└──╼ $ whoami
+```console
+$ profile --summary
 
-  Desenvolvedor focado em Node.js, APIs REST, automação e integrações.
-  Criando ferramentas práticas para bots, aplicações web e projetos reais.
+> Desenvolvedor de Node.js focado em APIs REST, automação e integrações.
+> Criando ferramentas diretas para bots, aplicações web e projetos reais.
 ```
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ESPECIALIDADE-APIs%20REST-00B4D8?style=flat-square&labelColor=080B0E" alt="Especialidade APIs REST" />
-  <img src="https://img.shields.io/badge/FOCO-AUTOMA%C3%87%C3%83O-006D77?style=flat-square&labelColor=080B0E" alt="Foco Automação" />
-  <img src="https://img.shields.io/badge/AMBIENTE-LINUX-101820?style=flat-square&logo=linux&logoColor=00B4D8" alt="Ambiente Linux" />
-  <img src="https://img.shields.io/badge/STACK-JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="Stack JavaScript" />
+
+| `BACKEND` | `AUTOMAÇÃO` | `INFRA` |
+| :---: | :---: | :---: |
+| Node.js · Express · REST | Bots · mídia · integrações | Docker · MongoDB · Linux |
+
 </div>
 
-## `~/stack`
+## // stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,js,express,mongodb,docker,git,github,linux&theme=dark&perline=8" alt="Node.js, JavaScript, Express, MongoDB, Docker, Git, GitHub e Linux" />
 </div>
 
-<br />
-
-<table align="center">
-  <tr>
-    <td align="center" width="260"><b>⚙️ BACKEND</b><br /><sub>Node.js • Express • APIs REST</sub></td>
-    <td align="center" width="260"><b>🤖 AUTOMAÇÃO</b><br /><sub>Bots • integrações • utilitários</sub></td>
-    <td align="center" width="260"><b>🧰 INFRA</b><br /><sub>Docker • MongoDB • Linux</sub></td>
-  </tr>
-</table>
-
-## `~/lab/asta-apis`
+## // projeto ativo
 
 <div align="center">
   <a href="https://asta-apis.eu.cc">
-    <img src="https://img.shields.io/badge/ASTA%20APIs-ACESSAR%20PLATAFORMA-006D77?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=080B0E" alt="Acessar Asta APIs" />
+    <img src="https://img.shields.io/badge/ASTA%20APIs-ABRIR%20PLATAFORMA-00A8CC?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=07131D" alt="Abrir Asta APIs" />
   </a>
 </div>
 
 <br />
 
-> Plataforma privada de APIs, ferramentas de mídia e automações feita para integrações simples e diretas.
+> **Asta APIs** é uma plataforma privada de APIs, ferramentas de mídia e automações feita para integrações simples e diretas.
 
 <details>
-  <summary><b>▸ Áreas que exploro</b></summary>
+  <summary><b>▸ Explorar especialidades</b></summary>
   <br />
 
   - APIs para bots e aplicações web
-  - Downloaders e processamento de mídia
+  - Download e processamento de mídia
   - Integrações com serviços externos
   - Ferramentas com IA e automação
 </details>
 
 <details>
-  <summary><b>▸ Princípio de desenvolvimento</b></summary>
+  <summary><b>▸ Filosofia</b></summary>
   <br />
 
-  `Menos complicação para integrar. Mais valor entregue pelo endpoint.`
+  `Menos fricção para integrar. Mais valor entregue por endpoint.`
 </details>
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/Lucas7X7"><img src="https://img.shields.io/badge/GitHub-@Lucas7X7-101820?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Lucas7X7" /></a>
+  <a href="https://github.com/Lucas7X7"><img src="https://img.shields.io/badge/GitHub-@Lucas7X7-07131D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Lucas7X7" /></a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,35:005f73,70:073642,100:030712&height=125&section=footer" alt="Rodapé" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,35:005f73,70:073642,100:030712&height=125&section=footer" alt="Rodapé" width="100%" />
+  <sub>BUILD • SHIP • IMPROVE</sub>
 </div>
