@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:101820,75:003b5c,100:00bcd4&height=230&section=header&text=Lucas%20Gabriel&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=APIs%20%C2%B7%20Automacao%20%C2%B7%20Node.js&descAlignY=58&descSize=18" alt="Banner de Luucnxz" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:101820,75:003b5c,100:00bcd4&height=230&section=header&text=Lucas7X7&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=APIs%20%C2%B7%20Automacao%20%C2%B7%20Node.js&descAlignY=58&descSize=18" alt="Banner Lucas7X7" width="100%" />
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3200&pause=900&color=00BCD4&center=true&vCenter=true&width=650&lines=Lucas+Gabriel;Node.js+%7C+APIs+REST+%7C+Automacao;Construindo+produtos+que+resolvem+problemas." alt="Texto animado" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3200&pause=900&color=00BCD4&center=true&vCenter=true&width=650&lines=Node.js+%7C+APIs+REST+%7C+Automacao;Construindo+produtos+que+resolvem+problemas." alt="Texto animado" /></a>
 
   <br />
 
@@ -13,7 +13,7 @@
 ## `>_` Sobre mim
 
 ```js
-const lucas = {
+const profile = {
   location: 'Brasil 🇧🇷',
   focus: ['APIs REST', 'Node.js', 'automação', 'bots'],
   currentlyBuilding: 'Asta APIs',
@@ -75,4 +75,3 @@ Atualmente desenvolvendo **Asta APIs** — uma plataforma privada de APIs, autom
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCD4,40:003B5C,70:101820,100:050505&height=120&section=footer" alt="Rodapé colorido" width="100%" />
 </div>
-
