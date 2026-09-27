@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 610" width="1040" height="610"
+     role="img" aria-label="Terminal animado do perfil de Lucas7X7">
+  <title>lucas7x7 — ~/profile</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="610" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0d1117"/><stop offset="1" stop-color="#010409"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#161b22"/><stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="cur" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#7ee787"/><stop offset="1" stop-color="#3fb950"/>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000" opacity=".22"/>
+    </pattern>
+    <radialGradient id="vig" cx="0.5" cy="0.45" r="0.78">
+      <stop offset="0.55" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000" stop-opacity=".55"/>
+    </radialGradient>
+    <style>
+      .t { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas,
+                    "DejaVu Sans Mono", monospace;
+            font-size: 15px; fill: #c9d1d9; white-space: pre; }
+      .u { animation: flick 7s steps(1) infinite; }
+      @keyframes flick {
+        0%,96% { opacity: 1 } 97% { opacity: .55 } 98% { opacity: 1 }
+      }
+    </style>
+    <animate id="loop" attributeName="opacity" from="1" to="1" dur="14.34s"
+             begin="0s" repeatCount="indefinite"/>
+    <clipPath id="c0"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="72.0" dur="0.20s" begin="0.45s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="84" dur="0s" begin="0.45s;loop.end" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="378.0" dur="0.67s" begin="0.85s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="128" dur="0s" begin="0.85s;loop.end" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="468.0" dur="0.83s" begin="1.62s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="150" dur="0s" begin="1.62s;loop.end" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="405.0" dur="0.72s" begin="2.55s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="172" dur="0s" begin="2.55s;loop.end" fill="freeze"/></rect></clipPath>
+    <clipPath id="c5"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="396.0" dur="0.70s" begin="3.37s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="194" dur="0s" begin="3.37s;loop.end" fill="freeze"/></rect></clipPath>
+    <clipPath id="c7"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="162.0" dur="0.29s" begin="4.28s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="238" dur="0s" begin="4.28s;loop.end" fill="freeze"/></rect></clipPath>
+    <clipPath id="c9"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="423.0" dur="0.75s" begin="4.77s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="282" dur="0s" begin="4.77s;loop.end" fill="freeze"/></rect></clipPath>
+    <clipPath id="c10"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="369.0" dur="0.66s" begin="5.62s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="304" dur="0s" begin="5.62s;loop.end" fill="freeze"/></rect></clipPath>
+    <clipPath id="c11"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="423.0" dur="0.75s" begin="6.37s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="326" dur="0s" begin="6.37s;loop.end" fill="freeze"/></rect></clipPath>
+    <clipPath id="c12"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="351.0" dur="0.62s" begin="7.23s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="348" dur="0s" begin="7.23s;loop.end" fill="freeze"/></rect></clipPath>
+    <clipPath id="c13"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="378.0" dur="0.67s" begin="7.95s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="370" dur="0s" begin="7.95s;loop.end" fill="freeze"/></rect></clipPath>
+    <clipPath id="c15"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="207.0" dur="0.37s" begin="8.82s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="414" dur="0s" begin="8.82s;loop.end" fill="freeze"/></rect></clipPath>
+    <clipPath id="c16"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="225.0" dur="0.40s" begin="9.29s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="436" dur="0s" begin="9.29s;loop.end" fill="freeze"/></rect></clipPath>
+    <clipPath id="c18"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="153.0" dur="0.27s" begin="9.89s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="480" dur="0s" begin="9.89s;loop.end" fill="freeze"/></rect></clipPath>
+    <clipPath id="c19"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="252.0" dur="0.45s" begin="10.26s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="502" dur="0s" begin="10.26s;loop.end" fill="freeze"/></rect></clipPath>
+    <clipPath id="c20"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="252.0" dur="0.45s" begin="10.81s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="524" dur="0s" begin="10.81s;loop.end" fill="freeze"/></rect></clipPath>
+    <clipPath id="c21"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="216.0" dur="0.38s" begin="11.36s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="546" dur="0s" begin="11.36s;loop.end" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <rect width="1040" height="610" rx="10" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="1039" height="609" rx="10" fill="none"
+        stroke="#30363d"/>
+  <path d="M0 10a10 10 0 0 1 10-10h1020a10 10 0 0 1 10 10v30H0z"
+        fill="url(#bar)"/>
+  <line x1="0" y1="40" x2="1040" y2="40" stroke="#21262d"/>
+  <circle cx="24" cy="20.0" r="5.5" fill="#ff5f57"/>
+  <circle cx="44" cy="20.0" r="5.5" fill="#febc2e"/>
+  <circle cx="64" cy="20.0" r="5.5" fill="#28c840"/>
+  <text x="520.0" y="25.0" fill="#8b949e" text-anchor="middle"
+        style="font-family: ui-monospace,Menlo,Consolas,monospace;font-size:13px">
+    lucas7x7 — ~/profile — 120x22
+  </text>
+
+  <g>
+    <text class="t" x="30" y="74" clip-path="url(#c0)" textLength="72.0" lengthAdjust="spacing"><tspan fill="#7ee787">$ whoami</tspan></text>
+    <text class="t" x="30" y="118" clip-path="url(#c2)" textLength="378.0" lengthAdjust="spacing"><tspan fill="#c9d1d9">lucasx7  ·  node.js / typescript developer</tspan></text>
+    <text class="t" x="30" y="140" clip-path="url(#c3)" textLength="468.0" lengthAdjust="spacing"><tspan fill="#c9d1d9">building apis, bots, webhooks and automation tooling</tspan></text>
+    <text class="t" x="30" y="162" clip-path="url(#c4)" textLength="405.0" lengthAdjust="spacing"><tspan fill="#79c0ff">stack    </tspan><tspan fill="#ffa657">node · typescript · express · python</tspan></text>
+    <text class="t" x="30" y="184" clip-path="url(#c5)" textLength="396.0" lengthAdjust="spacing"><tspan fill="#ffa657">         fastapi · postgres · docker · linux</tspan></text>
+    <text class="t" x="30" y="228" clip-path="url(#c7)" textLength="162.0" lengthAdjust="spacing"><tspan fill="#7ee787">$ ls -1 ~/projects</tspan></text>
+    <text class="t" x="30" y="272" clip-path="url(#c9)" textLength="423.0" lengthAdjust="spacing"><tspan fill="#58a6ff">akinator-client</tspan><tspan fill="#c9d1d9">   ★2 ⑂1   typed akinator client</tspan></text>
+    <text class="t" x="30" y="294" clip-path="url(#c10)" textLength="369.0" lengthAdjust="spacing"><tspan fill="#58a6ff">droppier</tspan><tspan fill="#c9d1d9">          ★0     webhook gateway:</tspan></text>
+    <text class="t" x="30" y="316" clip-path="url(#c11)" textLength="423.0" lengthAdjust="spacing"><tspan fill="#c9d1d9">                    hmac · retries · ssrf guard</tspan></text>
+    <text class="t" x="30" y="338" clip-path="url(#c12)" textLength="351.0" lengthAdjust="spacing"><tspan fill="#58a6ff">transparencia-cidada-portal-de-empenhos</tspan></text>
+    <text class="t" x="30" y="360" clip-path="url(#c13)" textLength="378.0" lengthAdjust="spacing"><tspan fill="#c9d1d9">         ★1     public spending aggregator</tspan></text>
+    <text class="t" x="30" y="404" clip-path="url(#c15)" textLength="207.0" lengthAdjust="spacing"><tspan fill="#7ee787">$ npm i akinator-client</tspan></text>
+    <text class="t" x="30" y="426" clip-path="url(#c16)" textLength="225.0" lengthAdjust="spacing"><tspan fill="#7ee787">  + akinator-client@1.3.0</tspan></text>
+    <text class="t" x="30" y="470" clip-path="url(#c18)" textLength="153.0" lengthAdjust="spacing"><tspan fill="#7ee787">$ cat contact.txt</tspan></text>
+    <text class="t" x="30" y="492" clip-path="url(#c19)" textLength="252.0" lengthAdjust="spacing"><tspan fill="#79c0ff">github   </tspan><tspan fill="#ffa657">github.com/Lucas7X7</tspan></text>
+    <text class="t" x="30" y="514" clip-path="url(#c20)" textLength="252.0" lengthAdjust="spacing"><tspan fill="#79c0ff">npm      </tspan><tspan fill="#ffa657">npmjs.com/~lucas7x7</tspan></text>
+    <text class="t" x="30" y="536" clip-path="url(#c21)" textLength="216.0" lengthAdjust="spacing"><tspan fill="#79c0ff">site     </tspan><tspan fill="#ffa657">asta-apis.eu.cc</tspan></text>
+  </g>
+
+  <text class="t" x="30" y="580">#c9d1d9  $ </text>
+
+  <rect width="9" height="16" fill="url(#cur)">
+    <animate attributeName="x" values="38.0,72.0,82.0,75.0,74.0,48.0,77.0,71.0,77.0,69.0,72.0,53.0,55.0,47.0,58.0,58.0,54.0,66.0,66.0" keyTimes="0.0453,0.1061,0.1711,0.2283,0.2843,0.3184,0.3847,0.4375,0.4969,0.5473,0.6012,0.6408,0.6756,0.7085,0.7468,0.7850,0.8187,0.8327,1.0000"
+             calcMode="discrete" dur="14.34s" begin="0s;loop.end" fill="freeze"/>
+    <animate attributeName="y" values="74.0,118.0,140.0,162.0,184.0,228.0,272.0,294.0,316.0,338.0,360.0,404.0,426.0,470.0,492.0,514.0,536.0,580.0,580.0" keyTimes="0.0453,0.1061,0.1711,0.2283,0.2843,0.3184,0.3847,0.4375,0.4969,0.5473,0.6012,0.6408,0.6756,0.7085,0.7468,0.7850,0.8187,0.8327,1.0000"
+             calcMode="discrete" dur="14.34s" begin="0s;loop.end" fill="freeze"/>
+    <animate class="u" attributeName="opacity" values="1;0" dur="1.05s"
+             repeatCount="indefinite"/>
+  </rect>
+
+  <rect width="1040" height="610" fill="url(#scan)" class="u" opacity=".5"/>
+  <rect width="1040" height="610" rx="10" fill="url(#vig)"/>
+</svg>
