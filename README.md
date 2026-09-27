@@ -16,8 +16,8 @@
 │   handle:  "@Lucas7X7",                                                  │
 │   since:   "2024",                                                       │
 │   foco:    ["APIs", "bots", "webhooks", "automação", "infra"],           │
-│   stack:   ["Node.js", "TypeScript", "JavaScript", "Python",             │
-│             "Express", "MongoDB", "Docker", "Linux"],                    │
+│   stack:   ["Node.js", "TypeScript", "Python", "FastAPI",                │
+│             "PostgreSQL", "Docker", "Linux"],                            │
 │   entrego: "APIs para bots e apps web, integrações com                   │
 │             serviços externos e ferramentas de linha de comando.",       │
 │ };                                                                       │
@@ -37,8 +37,8 @@
 │   TypeScript · JavaScript                                                │
 │   ★ 2   fork 1   v1.3.0                                                  │
 │                                                                          │
-│   Client não-oficial da API do Akinator para Node.js.                    │
-│   Sessão, filtragem por região e tipos completos.                        │
+│   Client Node.js totalmente tipado do Akinator: 16 idiomas,              │
+│   retry automático, proxy HTTP, child mode e sessão salva.               │
 │                                                                          │
 │   $ <a href="https://www.npmjs.com/package/akinator-client">npm i akinator-client</a>                                                │
 │                                                                          │
@@ -90,8 +90,8 @@
 │                                                                          │
 │   $ cat stack.txt | tr ' ' '\n'                                          │
 │                                                                          │
-│     node     typescript   python      docker                             │
-│     express  mongodb      shell       linux                              │
+│     node     typescript   python       fastapi                           │
+│     postgres docker        vitest       linux                            │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 </pre>
