@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/terminal.svg" alt="Terminal animado: whoami, repositórios e contatos" width="100%" />
+<img src="./assets/terminal-v2.svg" alt="Terminal animado: whoami, repositórios e contatos" width="100%" />
 
 </div>
 
