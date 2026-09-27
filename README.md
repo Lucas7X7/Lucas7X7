@@ -16,8 +16,8 @@
 │   handle:  "@Lucas7X7",                                                  │
 │   since:   "2024",                                                       │
 │   foco:    ["APIs", "bots", "webhooks", "automação", "infra"],           │
-│   stack:   ["Node.js", "TypeScript", "Python", "FastAPI",                │
-│             "PostgreSQL", "Docker", "Linux"],                            │
+│   stack:   ["Node.js", "TypeScript", "Express", "Python",                │
+│             "FastAPI", "PostgreSQL", "Docker", "Linux"],                 │
 │   entrego: "APIs para bots e apps web, integrações com                   │
 │             serviços externos e ferramentas de linha de comando.",       │
 │ };                                                                       │
@@ -72,11 +72,12 @@
 │                                                                          │
 │   <a href="https://github.com/Lucas7X7/universal-captcha">universal-captcha</a>                                                      │
 │                                                                          │
-│   JavaScript                                                             │
+│   JavaScript · Puppeteer                                                 │
 │   ★ 1                                                                    │
 │                                                                          │
-│   reCAPTCHA, hCaptcha e Turnstile atrás de uma única interface,          │
-│   com exemplos de integração em Node.js.                                 │
+│   Solver de reCAPTCHA v2 em Node.js via Puppeteer.                       │
+│   Dispatcher solve() pronto para novos tipos — por enquanto              │
+│   é o único solver implementado (fila serial, 20–60s por token).         │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 </pre>
@@ -90,8 +91,8 @@
 │                                                                          │
 │   $ cat stack.txt | tr ' ' '\n'                                          │
 │                                                                          │
-│     node     typescript   python       fastapi                           │
-│     postgres docker        vitest       linux                            │
+│     node     express      typescript   python                            │
+│     fastapi  postgres     docker       linux                             │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 </pre>
