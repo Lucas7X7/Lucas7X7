@@ -27,25 +27,23 @@
         0%,96% { opacity: 1 } 97% { opacity: .55 } 98% { opacity: 1 }
       }
     </style>
-    <animate id="loop" attributeName="opacity" from="1" to="1" dur="14.34s"
-             begin="0s" repeatCount="indefinite"/>
-    <clipPath id="c0"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="72.0" dur="0.20s" begin="0.45s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="84" dur="0s" begin="0.45s;loop.end" fill="freeze"/></rect></clipPath>
-    <clipPath id="c2"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="378.0" dur="0.67s" begin="0.85s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="128" dur="0s" begin="0.85s;loop.end" fill="freeze"/></rect></clipPath>
-    <clipPath id="c3"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="468.0" dur="0.83s" begin="1.62s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="150" dur="0s" begin="1.62s;loop.end" fill="freeze"/></rect></clipPath>
-    <clipPath id="c4"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="405.0" dur="0.72s" begin="2.55s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="172" dur="0s" begin="2.55s;loop.end" fill="freeze"/></rect></clipPath>
-    <clipPath id="c5"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="396.0" dur="0.70s" begin="3.37s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="194" dur="0s" begin="3.37s;loop.end" fill="freeze"/></rect></clipPath>
-    <clipPath id="c7"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="162.0" dur="0.29s" begin="4.28s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="238" dur="0s" begin="4.28s;loop.end" fill="freeze"/></rect></clipPath>
-    <clipPath id="c9"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="423.0" dur="0.75s" begin="4.77s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="282" dur="0s" begin="4.77s;loop.end" fill="freeze"/></rect></clipPath>
-    <clipPath id="c10"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="369.0" dur="0.66s" begin="5.62s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="304" dur="0s" begin="5.62s;loop.end" fill="freeze"/></rect></clipPath>
-    <clipPath id="c11"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="423.0" dur="0.75s" begin="6.37s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="326" dur="0s" begin="6.37s;loop.end" fill="freeze"/></rect></clipPath>
-    <clipPath id="c12"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="351.0" dur="0.62s" begin="7.23s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="348" dur="0s" begin="7.23s;loop.end" fill="freeze"/></rect></clipPath>
-    <clipPath id="c13"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="378.0" dur="0.67s" begin="7.95s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="370" dur="0s" begin="7.95s;loop.end" fill="freeze"/></rect></clipPath>
-    <clipPath id="c15"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="207.0" dur="0.37s" begin="8.82s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="414" dur="0s" begin="8.82s;loop.end" fill="freeze"/></rect></clipPath>
-    <clipPath id="c16"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="225.0" dur="0.40s" begin="9.29s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="436" dur="0s" begin="9.29s;loop.end" fill="freeze"/></rect></clipPath>
-    <clipPath id="c18"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="153.0" dur="0.27s" begin="9.89s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="480" dur="0s" begin="9.89s;loop.end" fill="freeze"/></rect></clipPath>
-    <clipPath id="c19"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="252.0" dur="0.45s" begin="10.26s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="502" dur="0s" begin="10.26s;loop.end" fill="freeze"/></rect></clipPath>
-    <clipPath id="c20"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="252.0" dur="0.45s" begin="10.81s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="524" dur="0s" begin="10.81s;loop.end" fill="freeze"/></rect></clipPath>
-    <clipPath id="c21"><rect x="0" y="0" height="0" width="0"><animate attributeName="width" from="0" to="216.0" dur="0.38s" begin="11.36s;loop.end" fill="freeze"/><animate attributeName="height" from="0" to="546" dur="0s" begin="11.36s;loop.end" fill="freeze"/></rect></clipPath>
+    <clipPath id="c0"><rect x="0" y="0" width="72.0" height="84"><animate attributeName="width" values="0;0;72.0;72.0" keyTimes="0;0.03138;0.04532;1" dur="14.342s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c2"><rect x="0" y="0" width="378.0" height="128"><animate attributeName="width" values="0;0;378.0;378.0" keyTimes="0;0.05927;0.10612;1" dur="14.342s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c3"><rect x="0" y="0" width="468.0" height="150"><animate attributeName="width" values="0;0;468.0;468.0" keyTimes="0;0.11309;0.17111;1" dur="14.342s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c4"><rect x="0" y="0" width="405.0" height="172"><animate attributeName="width" values="0;0;405.0;405.0" keyTimes="0;0.17808;0.22828;1" dur="14.342s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c5"><rect x="0" y="0" width="396.0" height="194"><animate attributeName="width" values="0;0;396.0;396.0" keyTimes="0;0.23525;0.28434;1" dur="14.342s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c7"><rect x="0" y="0" width="162.0" height="238"><animate attributeName="width" values="0;0;162.0;162.0" keyTimes="0;0.29828;0.31837;1" dur="14.342s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c9"><rect x="0" y="0" width="423.0" height="282"><animate attributeName="width" values="0;0;423.0;423.0" keyTimes="0;0.33231;0.38474;1" dur="14.342s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c10"><rect x="0" y="0" width="369.0" height="304"><animate attributeName="width" values="0;0;369.0;369.0" keyTimes="0;0.39172;0.43746;1" dur="14.342s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c11"><rect x="0" y="0" width="423.0" height="326"><animate attributeName="width" values="0;0;423.0;423.0" keyTimes="0;0.44443;0.49686;1" dur="14.342s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c12"><rect x="0" y="0" width="351.0" height="348"><animate attributeName="width" values="0;0;351.0;351.0" keyTimes="0;0.50383;0.54734;1" dur="14.342s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c13"><rect x="0" y="0" width="378.0" height="370"><animate attributeName="width" values="0;0;378.0;378.0" keyTimes="0;0.55432;0.60117;1" dur="14.342s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c15"><rect x="0" y="0" width="207.0" height="414"><animate attributeName="width" values="0;0;207.0;207.0" keyTimes="0;0.61512;0.64078;1" dur="14.342s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c16"><rect x="0" y="0" width="225.0" height="436"><animate attributeName="width" values="0;0;225.0;225.0" keyTimes="0;0.64775;0.67564;1" dur="14.342s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c18"><rect x="0" y="0" width="153.0" height="480"><animate attributeName="width" values="0;0;153.0;153.0" keyTimes="0;0.68958;0.70855;1" dur="14.342s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c19"><rect x="0" y="0" width="252.0" height="502"><animate attributeName="width" values="0;0;252.0;252.0" keyTimes="0;0.71552;0.74676;1" dur="14.342s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c20"><rect x="0" y="0" width="252.0" height="524"><animate attributeName="width" values="0;0;252.0;252.0" keyTimes="0;0.75373;0.78497;1" dur="14.342s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c21"><rect x="0" y="0" width="216.0" height="546"><animate attributeName="width" values="0;0;216.0;216.0" keyTimes="0;0.79194;0.81871;1" dur="14.342s" repeatCount="indefinite"/></rect></clipPath>
   </defs>
 
   <rect width="1040" height="610" rx="10" fill="url(#bg)"/>
@@ -84,11 +82,11 @@
 
   <text class="t" x="30" y="580">#c9d1d9  $ </text>
 
-  <rect width="9" height="16" fill="url(#cur)">
-    <animate attributeName="x" values="38.0,72.0,82.0,75.0,74.0,48.0,77.0,71.0,77.0,69.0,72.0,53.0,55.0,47.0,58.0,58.0,54.0,66.0,66.0" keyTimes="0.0453,0.1061,0.1711,0.2283,0.2843,0.3184,0.3847,0.4375,0.4969,0.5473,0.6012,0.6408,0.6756,0.7085,0.7468,0.7850,0.8187,0.8327,1.0000"
-             calcMode="discrete" dur="14.34s" begin="0s;loop.end" fill="freeze"/>
-    <animate attributeName="y" values="74.0,118.0,140.0,162.0,184.0,228.0,272.0,294.0,316.0,338.0,360.0,404.0,426.0,470.0,492.0,514.0,536.0,580.0,580.0" keyTimes="0.0453,0.1061,0.1711,0.2283,0.2843,0.3184,0.3847,0.4375,0.4969,0.5473,0.6012,0.6408,0.6756,0.7085,0.7468,0.7850,0.8187,0.8327,1.0000"
-             calcMode="discrete" dur="14.34s" begin="0s;loop.end" fill="freeze"/>
+  <rect x="38" y="74" width="9" height="16" fill="url(#cur)">
+    <animate attributeName="x" values="38.0;38.0;72.0;82.0;75.0;74.0;48.0;77.0;71.0;77.0;69.0;72.0;53.0;55.0;47.0;58.0;58.0;54.0;66.0;66.0" keyTimes="0.00000;0.04532;0.10612;0.17111;0.22828;0.28434;0.31837;0.38474;0.43746;0.49686;0.54734;0.60117;0.64078;0.67564;0.70855;0.74676;0.78497;0.81871;0.83266;1.00000"
+             calcMode="discrete" dur="14.342s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="74.0;74.0;118.0;140.0;162.0;184.0;228.0;272.0;294.0;316.0;338.0;360.0;404.0;426.0;470.0;492.0;514.0;536.0;580.0;580.0" keyTimes="0.00000;0.04532;0.10612;0.17111;0.22828;0.28434;0.31837;0.38474;0.43746;0.49686;0.54734;0.60117;0.64078;0.67564;0.70855;0.74676;0.78497;0.81871;0.83266;1.00000"
+             calcMode="discrete" dur="14.342s" repeatCount="indefinite"/>
     <animate class="u" attributeName="opacity" values="1;0" dur="1.05s"
              repeatCount="indefinite"/>
   </rect>
