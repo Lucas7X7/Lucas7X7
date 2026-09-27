@@ -3,7 +3,7 @@
 ║                                                                          ║
 ║                                @Lucas7X7                                 ║
 ║                                                                          ║
-║       LucasX7  ·  Node.js / TypeScript  ·  APIs, bots e automação        ║
+║       LucasX7  ·  Node.js / TypeScript  ·  APIs, bots, automation        ║
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 </pre>
@@ -15,16 +15,16 @@
 │   name:    "LucasX7",                                                    │
 │   handle:  "@Lucas7X7",                                                  │
 │   since:   "2024",                                                       │
-│   foco:    ["APIs", "bots", "webhooks", "automação", "infra"],           │
+│   focus:   ["APIs", "bots", "webhooks", "automation", "infra"],          │
 │   stack:   ["Node.js", "TypeScript", "Express", "Python",                │
 │             "FastAPI", "PostgreSQL", "Docker", "Linux"],                 │
-│   entrego: "APIs para bots e apps web, integrações com                   │
-│             serviços externos e ferramentas de linha de comando.",       │
+│   ship:    "APIs for bots and web apps, integrations with                │
+│             external services and command-line tools.",                  │
 │ };                                                                       │
 │                                                                          │
-│ Gosto de sistemas que ficam de pé sozinhos: fila, retry com              │
-│ backoff, assinatura HMAC, limite de taxa e observabilidade —             │
-│ o boring stuff que faz a diferença em produção.                          │
+│ I like systems that keep running on their own: queues, retry             │
+│ with backoff, HMAC signing, rate limiting and observability —            │
+│ the boring stuff that actually matters in production.                    │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 </pre>
@@ -37,8 +37,8 @@
 │   TypeScript · JavaScript                                                │
 │   ★ 2   fork 1   v1.3.0                                                  │
 │                                                                          │
-│   Client Node.js totalmente tipado do Akinator: 16 idiomas,              │
-│   retry automático, proxy HTTP, child mode e sessão salva.               │
+│   Fully typed Node.js client for Akinator: 16 languages,                 │
+│   automatic retry, HTTP proxy, child mode and saved sessions.            │
 │                                                                          │
 │   $ <a href="https://www.npmjs.com/package/akinator-client">npm i akinator-client</a>                                                │
 │                                                                          │
@@ -51,8 +51,8 @@
 │   TypeScript · Docker · Shell                                            │
 │   ★ 0                                                                    │
 │                                                                          │
-│   Gateway de webhooks pronto pra produção: verificação HMAC,             │
-│   rotas por evento, retry, replay, rate limit e proteção SSRF.           │
+│   Production-ready webhook gateway: HMAC verification,                   │
+│   event routing, retries, replay, rate limiting and SSRF guard.          │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 
@@ -63,8 +63,8 @@
 │   Python · HTML · CSS · PowerShell                                       │
 │   ★ 1                                                                    │
 │                                                                          │
-│   Agregador de empenhos públicos dos portais de transparência,           │
-│   com busca por favorecido/CPF e relatórios em Markdown e CSV.           │
+│   Public spending aggregator for transparency portals,                   │
+│   searchable by payee/CPF, with Markdown and CSV reports.                │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 </pre>
@@ -74,7 +74,7 @@
 │                                                                          │
 │   $ uptime                                                               │
 │                                                                          │
-│     3 repos em destaque  ·  último push 2026-09-27                       │
+│     3 featured repos  ·  last push 2026-09-27                            │
 │                                                                          │
 │   $ cat stack.txt | tr ' ' '\n'                                          │
 │                                                                          │
@@ -98,6 +98,6 @@
 
 <div align="center">
 
-<sub>feito à mão, sem template.</sub>
+<sub>handmade, no template.</sub>
 
 </div>
