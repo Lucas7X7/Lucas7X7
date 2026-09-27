@@ -67,19 +67,6 @@
 │   com busca por favorecido/CPF e relatórios em Markdown e CSV.           │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
-
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-│   <a href="https://github.com/Lucas7X7/universal-captcha">universal-captcha</a>                                                      │
-│                                                                          │
-│   JavaScript · Puppeteer                                                 │
-│   ★ 1                                                                    │
-│                                                                          │
-│   Solver de reCAPTCHA v2 em Node.js via Puppeteer.                       │
-│   Dispatcher solve() pronto para novos tipos — por enquanto              │
-│   é o único solver implementado (fila serial, 20–60s por token).         │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
 </pre>
 
 <pre>
@@ -87,7 +74,7 @@
 │                                                                          │
 │   $ uptime                                                               │
 │                                                                          │
-│     4 repos públicos  ·  último push 2026-09-27                          │
+│     3 repos em destaque  ·  último push 2026-09-27                       │
 │                                                                          │
 │   $ cat stack.txt | tr ' ' '\n'                                          │
 │                                                                          │
